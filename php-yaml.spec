@@ -6,7 +6,7 @@
 Summary:	YAML-1.1 parser and emitter
 Name:		php-%{modname}
 Version:	1.0.1
-Release:	%mkrel 2
+Release:	%mkrel 3
 Group:		Development/PHP
 License:	MIT
 URL:		http://pecl.php.net/package/yaml/
