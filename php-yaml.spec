@@ -9,7 +9,7 @@ Version:	1.1.0
 Release:	2
 Group:		Development/PHP
 License:	MIT
-URL:		http://pecl.php.net/package/yaml/
+URL:		https://pecl.php.net/package/yaml/
 Source0:	http://pecl.php.net/get/yaml-%{version}.tgz
 Source1:	B13_yaml.ini
 BuildRequires:	pkgconfig
