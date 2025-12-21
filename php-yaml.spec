@@ -12,6 +12,11 @@ License:	MIT
 URL:		https://pecl.php.net/package/yaml/
 Source0:	http://pecl.php.net/get/yaml-%{version}.tgz
 Source1:	B13_yaml.ini
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	pkgconfig
 BuildRequires:	php-devel >= 3:5.2.0
 BuildRequires:	yaml-devel
